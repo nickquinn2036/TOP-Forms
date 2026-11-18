@@ -3,7 +3,7 @@
 A responsive sign-up page built from scratch as part of [The Odin Project's Intermediate HTML and CSS curriculum](https://theodinproject.com).
 
 ## Live Demo
-🔗 **[View Live Site](//WIP)**
+🔗 **[View Live Site](https://nickquinn2036.github.io/TOP-Forms/)**
 
 ## Features
 * **Semantic HTML5 Form:** Accessible `<label>` and `<input>` pairings, custom regex `pattern` validation for emails and phone numbers, and POST payload testing via `httpbin.org`.
